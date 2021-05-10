@@ -1,0 +1,10 @@
+release/easy.o
+release/hard.o
+release/main.o
+release/rank.o
+release/welcome.o
+release/qrc_res.o
+release/moc_easy.o
+release/moc_hard.o
+release/moc_rank.o
+release/moc_welcome.o

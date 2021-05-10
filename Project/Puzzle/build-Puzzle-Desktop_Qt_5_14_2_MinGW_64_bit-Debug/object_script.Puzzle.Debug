@@ -1,0 +1,10 @@
+debug/easy.o
+debug/hard.o
+debug/main.o
+debug/rank.o
+debug/welcome.o
+debug/qrc_res.o
+debug/moc_easy.o
+debug/moc_hard.o
+debug/moc_rank.o
+debug/moc_welcome.o

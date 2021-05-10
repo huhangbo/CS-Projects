@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/mainwindow.png</file>
+        <file>res/puzzle.ico</file>
+        <file>res/sound.png</file>
+        <file>res/main.mp3</file>
+    </qresource>
+</RCC>

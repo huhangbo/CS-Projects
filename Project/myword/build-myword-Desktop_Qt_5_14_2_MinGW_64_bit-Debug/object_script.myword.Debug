@@ -1,0 +1,10 @@
+debug/FindDialog.o
+debug/ReplaceDialog.o
+debug/main.o
+debug/mychild.o
+debug/myword.o
+debug/qrc_myword.o
+debug/moc_FindDialog.o
+debug/moc_ReplaceDialog.o
+debug/moc_mychild.o
+debug/moc_myword.o

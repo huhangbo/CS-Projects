@@ -1,0 +1,10 @@
+release/FindDialog.o
+release/ReplaceDialog.o
+release/main.o
+release/mychild.o
+release/myword.o
+release/qrc_myword.o
+release/moc_FindDialog.o
+release/moc_ReplaceDialog.o
+release/moc_mychild.o
+release/moc_myword.o
